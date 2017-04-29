@@ -145,7 +145,7 @@ limitations under the License.
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>versions-maven-plugin</artifactId>
-        <version>${codehaus-versions-maven-plugin}</version>
+        <version>${versions-maven-plugin}</version>
       </plugin>
       <!-- Release (not inherited) -->
       <plugin>
